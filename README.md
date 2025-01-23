@@ -6,3 +6,9 @@ A real-time data streaming pipeline using Apache Kafka and PostgreSQL, designed 
 
 ### [FlexETL: Schema Evolution Pipeline](https://github.com/frendyan/schema-evolution-pipeline)
 A dynamic ETL pipeline built using Apache Airflow and PostgreSQL, designed to handle schema evolution. The project extracts data from JSON files, dynamically updates the database schema to accommodate new columns, and loads transformed data into a PostgreSQL database. This project demonstrates the ability to manage changing data structures in ETL workflows effectively.
+
+<br />
+
+---
+
+#### Medium : [@frendyan](https://medium.com/@frendyan)
