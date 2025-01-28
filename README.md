@@ -10,6 +10,9 @@ A dynamic ETL pipeline built using Apache Airflow and PostgreSQL, designed to ha
 ### [Analytics Ready Data Mart](https://github.com/frendyan/analytics-ready-data-mart)
 Demonstrates the creation of an analytics-ready data mart for an e-commerce platform. It uses advanced SQL techniques, synthetic data generation, and dimensional modeling to simulate real-world data engineering scenarios. The data mart is designed for business intelligence (BI) use cases, focusing on optimizing query performance for decision-making and reporting.
 
+### [ETL Project with API and Postgres](https://github.com/frendyan/etl-project-api)
+A simple ETL project that extract data from API, Load to PostgreSQL, transform and model into warehouse tables (dim, fact, mart) then visualize it on metabase dashboard
+
 <br />
 
 ---
